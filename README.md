@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<figure><embed src="https://wakatime.com/share/@patriziothedev/9957781c-e6ca-4ffb-8126-fe823455a279.svg"></embed></figure>
+
+
 <!--
 **Patrizio-programs/Patrizio-programs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
