@@ -2,7 +2,7 @@
 
 
 
-<figure><embed src="https://wakatime.com/share/@patriziothedev/9957781c-e6ca-4ffb-8126-fe823455a279.svg"></embed></figure>
+![data](https://wakatime.com/share/@patriziothedev/1afe0700-a291-49cd-94ae-48a3d48c1949.png)
 
 
 <!--
